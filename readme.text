@@ -1,0 +1,26 @@
+CS 382 Devon Macke project 2 - Mission Demolition
+1. Do the Mission Demolition tutorial from Bond Chapter 30. (1 point) 
+-- check
+
+Enhance the finished Mission Demolition project in the following ways:  
+a. Use the correct Unity version and upload to GitHub with the correct Unity gitignore. 
+(1point) 
+-- check
+
+b. Add a “Game Over” screen with a “Play Again” button. (1 points) 
+-- check
+
+c. Make 4 levels with 4 castles different from the ones shown in the book. Order the 
+castles from easy to difficult, so that the game increases in difficulty with each level. (1 
+points) 
+-- check
+
+d. Use a Line Renderer to draw the rubber band of the slingshot. (2 points) 
+-- check
+
+e. Add a sound. Either the rubber band snapping as the projectile is shot, or the projectile 
+whirring as it flies through the air. (2 points) 
+-- check
+
+f. Make the game cooler in a meaningful way (2 points). Be sure to leave a readme file 
+that explains the enhancements. 
